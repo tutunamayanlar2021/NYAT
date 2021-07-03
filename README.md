@@ -1,2 +1,2 @@
 # NYAT
-Nesneye Yönelimli Analaiz ve Tasarım Projesi
+Nesneye Yönelimli Analiz ve Tasarım Projesi
